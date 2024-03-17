@@ -20,6 +20,7 @@ Hello Larry
 Hello Paula
 Hello Laura
 Good Bye Jim
+...
 
 WARNING!!! WARNING!!!
 The code does NOT currently work! It is YOUR job to make it work
